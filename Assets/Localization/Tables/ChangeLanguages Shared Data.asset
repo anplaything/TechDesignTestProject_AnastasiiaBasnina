@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ChangeLanguages Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ChangeLanguages
+  m_TableCollectionNameGuidString: 68be89b4a147c4225af4c70b4fa88fbd
+  m_Entries:
+  - m_Id: 2780491145216
+    m_Key: first_scene_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629342777344
+    m_Key: second_scene_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144112496926720
+    m_Key: yellow_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145977196404736
+    m_Key: green_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 294288448544768
+    m_Key: red_bird_text_no_animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330349262397440
+    m_Key: red_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330699679719424
+    m_Key: yellow_bird_text_
+    m_Metadata:
+      m_Items: []
+  - m_Id: 990408959057920
+    m_Key: black_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 990607433523200
+    m_Key: blue_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991060107976704
+    m_Key: cat_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 994738596470784
+    m_Key: brown_bird_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 995544452292608
+    m_Key: dog_text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7123816350502617112
+  references:
+    version: 2
+    RefIds:
+    - rid: 7123816350502617112
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699663546237

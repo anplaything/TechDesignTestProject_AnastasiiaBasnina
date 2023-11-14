@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ChangeLanguages_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 68be89b4a147c4225af4c70b4fa88fbd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2780491145216
+    m_Localized: "Sc\xE8ne 1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3629342777344
+    m_Localized: Transition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144112496926720
+    m_Localized: Cliquez sur l'oiseau jaune pour lancer l'animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145977196404736
+    m_Localized: Cliquez sur l'oiseau vert pour lancer l'animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 294288448544768
+    m_Localized: "Il n'est pas n\xE9cessaire de cliquer sur l'oiseau rouge. Animation
+      automatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330699679719424
+    m_Localized: "Il n'est pas n\xE9cessaire de cliquer sur l'oiseau jaune. Animation
+      automatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330349262397440
+    m_Localized: Cliquez sur l'oiseau rouge pour lancer une animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 990408959057920
+    m_Localized: "Il n'est pas n\xE9cessaire de cliquer sur l'oiseau noir. Animation
+      automatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 990607433523200
+    m_Localized: Cliquez sur l'oiseau bleu pour lancer une animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 991060107976704
+    m_Localized: "\u0421liquez sur l'un des chats. Il va miauler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 994738596470784
+    m_Localized: Cliquez sur l'oiseau marron pour lancer une animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 995544452292608
+    m_Localized: cliquez sur un des chiots pour le faire aboyer
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
